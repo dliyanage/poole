@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             ""
+baseurl:             https://dliyanage.github.io
 
 # Assets
 #
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://dliyanage.github.io
+  repo:              https://github.com/poole/hyde
